@@ -1,5 +1,3 @@
-package com.verint.im.messaging.conversation.service;
-
 import java.util.concurrent.TimeUnit;
 
 import org.springframework.beans.factory.annotation.Autowired;
